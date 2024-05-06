@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="]Bw5Vr-`7m7`=jdV/lr+">distance</variable></variables><block type="device_forever" id="xuY3_u[@M8eju,KW@!A]" x="0" y="0"></block><block type="function_definition" id="F-L8X[4v=HCB7ZeeuKv1" x="-4" y="121"><mutation name="getDistance" functionid="{L}Pp7O#-Lf2_`%7SJG`"></mutation><field name="function_name">getDistance</field><statement name="STACK"><block type="function_return" id="oFa}ECZmXR=#4rV}+dT#"><mutation xmlns="http://www.w3.org/1999/xhtml" no_return_value="false"></mutation><value name="RETURN_VALUE"><shadow type="math_number" id=",#HYs6Lm.zFSz32ir$Nd"><field name="NUM">0</field></shadow><block type="maqueenPlusV2_readUltrasonic" id="%H,:{B9)(q0;3OQMF2./"><field name="trig">DigitalPin.P13</field><field name="echo">DigitalPin.P14</field></block></value></block></statement></block></xml>
