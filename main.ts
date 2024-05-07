@@ -3,11 +3,6 @@
  */
 //% weight=100 color=#0D4C38 icon="\uf800" block="EngineeringDay2024"
 namespace EngineeringDay2024{
-	export class Robot{ }
-
-	export function createRobot{}: Robot {
-		return undefined;
-	}
 	export function getDistance () {
     		return readUltrasonic(DigitalPin.P13, DigitalPin.P14)
 	}
