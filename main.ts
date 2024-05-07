@@ -5,9 +5,9 @@
 namespace engineeringDay2024{
 	
 	//% block="Robot Configuration: Speed $speed|Bucket Angle offset $bucketOffset|Arm Angle offset $armOffset|"
-	//% speed.min = 0 speed.max = 200 speed.defl = 100
-	//% bucketOffset.min = 0 bucketOffset.max = 20 bucketOffset.defl = 0
-	//% armOffset.min = 0 armOffset.max = 20 armOffset.defl = 0
+	//% speed.min=0 speed.max=200 speed.defl=100
+	//% bucketOffset.min=0 bucketOffset.max=20 bucketOffset.defl=0
+	//% armOffset.min=0 armOffset.max=20 armOffset.defl=0
 	export function setVariables( speed : number, bucketOffset: number, armOffset : number) {
 	}
 	
