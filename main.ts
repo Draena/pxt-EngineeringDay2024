@@ -1,7 +1,7 @@
 /**
  * Custom graphics block
  */
-//% weight=100 color=#0D4C38 icon="\uf800" block="Engineering Day 2024"
+//% weight=100 color=#0D4C38 icon="\uf004" block="Engineering Day 2024"
 namespace engineeringDay2024{
 	
 	//% block
