@@ -3,6 +3,8 @@
  */
 //% weight=100 color=#0D4C38 icon="\uf800" block="EngineeringDay2024"
 namespace EngineeringDay2024{
+	export function setVariables( speed: number ){
+	}
 	export function getDistance () {
     		return maqueenPlusV2.readUltrasonic(DigitalPin.P13, DigitalPin.P14)
 	}
